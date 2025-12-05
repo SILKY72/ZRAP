@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight Service'
+define service ZFLIGHT_ZRTR {
+  expose ZI_connection_ZRTR;
+  expose ZI_FLight_zrtr;
+}
